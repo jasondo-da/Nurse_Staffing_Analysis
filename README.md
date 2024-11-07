@@ -58,5 +58,4 @@ Within this analysis, in the first half, I will uncover new insights and unusual
 
 • States/Territories that require more nurses based on average hours spent on residents are Alaska, Puerto Rico, Oregon, DC, and Hawaii
 
-![image](https://github.com/user-attachments/assets/4ef8c0ea-445f-43b5-8f46-0e4d9e3bc0e8)
-
+![image](https://github.com/user-attachments/assets/6247dcc4-4f0f-4670-828d-67bc33731367)
