@@ -18,7 +18,7 @@ A third-party nurse staffing agency’s sales leadership team has asked for reco
 
 Full Nurse Staffing Analysis on Tableau.
 
-Link: [Nurse Staffing Analysis Dashboard](https://public.tableau.com/app/profile/jason.do5779/viz/nursing_hours_project/story)
+Link: [Nurse Staffing Analysis Dashboard](https://public.tableau.com/views/nursing_hours_project/story?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ### Nurse Staffing Analysis Datasets
 
