@@ -18,7 +18,7 @@ A third-party nurse staffing agency’s sales leadership team has asked for reco
 
 Full Nurse Staffing Analysis on Tableau.
 
-Link: [Nurse Staffing Analysis Dashboard](https://public.tableau.com/app/profile/jason.do5779/viz/nursing_hours_project/Dashboard?publish=yes)
+Link: [Nurse Staffing Analysis Dashboard](https://public.tableau.com/app/profile/jason.do5779/viz/nursing_hours_project/story)
 
 ### Nurse Staffing Analysis Datasets
 
@@ -58,4 +58,4 @@ Within this analysis, in the first half, I will uncover new insights and unusual
 
 • States/Territories that require more nurses based on average hours spent on residents are Alaska, Puerto Rico, Oregon, DC, and Hawaii
 
-![image](https://github.com/user-attachments/assets/6247dcc4-4f0f-4670-828d-67bc33731367)
+![image](https://github.com/user-attachments/assets/a6440b94-b725-4228-8232-3d8ec9d0faa2)
