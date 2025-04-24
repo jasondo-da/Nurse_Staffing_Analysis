@@ -14,13 +14,13 @@
 
 A third-party nurse staffing agency’s sales leadership team has asked for recommendations on possible business decisions based on the Q1 2024 Payroll-Based Journal (PBJ) Daily Nurse Staffing dataset. In this analysis, I will analyze the Q1 2024 Payroll-Based Journal (PBJ) Daily Nurse Staffing dataset and the State US Averages dataset to provide possible areas for staffing growth.
 
-### Nurse Staffing Analysis Dashboard
+## Nurse Staffing Analysis Dashboard
 
 Full Nurse Staffing Analysis on Tableau.
 
 Link: [Nurse Staffing Analysis Dashboard](https://public.tableau.com/views/nursing_hours_project/story?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-### Nurse Staffing Analysis Datasets
+## Nurse Staffing Analysis Datasets
 
 This dataset provides a unique glimpse into nurse staffing trends in Q1 2024.
 
